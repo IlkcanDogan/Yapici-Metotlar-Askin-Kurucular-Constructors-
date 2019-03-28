@@ -1,0 +1,6 @@
+c:\users\mka\documents\visual studio 2012\Projects\YapiciMetotlar\YapiciMetotlar\bin\Debug\YapiciMetotlar.exe.config
+C:\Users\MKA\Documents\Visual Studio 2012\Projects\YapiciMetotlar\YapiciMetotlar\obj\Debug\YapiciMetotlar.csprojResolveAssemblyReference.cache
+C:\Users\MKA\Documents\Visual Studio 2012\Projects\YapiciMetotlar\YapiciMetotlar\bin\Debug\YapiciMetotlar.exe
+C:\Users\MKA\Documents\Visual Studio 2012\Projects\YapiciMetotlar\YapiciMetotlar\bin\Debug\YapiciMetotlar.pdb
+C:\Users\MKA\Documents\Visual Studio 2012\Projects\YapiciMetotlar\YapiciMetotlar\obj\Debug\YapiciMetotlar.exe
+C:\Users\MKA\Documents\Visual Studio 2012\Projects\YapiciMetotlar\YapiciMetotlar\obj\Debug\YapiciMetotlar.pdb
