@@ -10,7 +10,9 @@ namespace YapiciMetotlar
     {
         /*
          * Sıradan metotlar gibi yapıcı metotlarda parametre alabilmektedir. Ancak yapıcı metotlar nesne
-         * oluşturulduğu an çalıştığı için parametreler nesne oluşturulurken girilmelidir.
+         * oluşturulduğu an çalıştığı için parametreler nesne oluşturulurken girilmelidir.Parametresiz olarak
+         * yapıcı metot tanımlanmış ise nesne örneği alınırken parametre vermeden de kullanılabilirler. Sınıf ilk
+         * çalışmaya başladığında yapılmasını istediğimiz işlemleri buraya yazarız.
          */
 
         string adSoyad;
